@@ -74,7 +74,7 @@
   .theme-menu-wrapper.fixed,header.theme-menu-wrapper.menu-style-three.fixed {padding-top: 25px;}
   .theme-menu-wrapper.fixed .logo,.theme-menu-wrapper.menu-style-two.inner-menu.fixed .logo {-webkit-transform:none;transform:none;top:30px;}
   header.theme-menu-wrapper #mega-menu-wrapper .nav>li>a,
-  header.theme-menu-wrapper.fixed #mega-menu-wrapper .nav>li.menu-list>a,
+  header.theme-menu-wrapper.fixed #mega-menu-wrapper .nav>li.menu-list">a,
   header.theme-menu-wrapper.menu-style-three #mega-menu-wrapper .nav>li>a {padding:0;margin: 0 8px;}
   header.theme-menu-wrapper #mega-menu-wrapper .nav>li>a:before {top:28px;}
   header.theme-menu-wrapper #mega-menu-wrapper .nav .login-button a {margin: 10px 0 15px 5px;}

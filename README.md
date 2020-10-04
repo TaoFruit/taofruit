@@ -6,7 +6,7 @@ We are problem-solvers and content creators. We are an International Team coveri
 
 <h1 align="center">
   <br>
-  <img src="https://github.com/TaoFruit/taofruit/blob/gh-pages/images/logo/logo.png" alt="Tao Fuit" width="400">
+  <img src="https://github.com/TaoFruit/taofruit/blob/gh-pages/images/logo/logo.png" alt="Tao Fruit" width="400">
 </h1>
 
 

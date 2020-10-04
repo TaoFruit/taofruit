@@ -27,7 +27,7 @@ Languages/Technologies used in the project:
 
 ### Installation:
 #### Direct Download
-1. Download <a href="https://github.com/TaoFruit/taofruit/archive/master.zip" target="_blank">Tao Fruit.zip</a>
+1. Download <a href="https://github.com/TaoFruit/taofruit/archive/gh-pages.zip" target="_blank">Tao Fruit.zip</a>
 2. Extract the zip file.
 3. Open the folder in <b>VS Code</b> or any other <b>Code Editor</b>.
 
